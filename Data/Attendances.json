@@ -1,0 +1,191 @@
+[
+  {
+    "AttendanceId": "ATT001",
+    "EmployeeId": "EMP001",
+    "EmployeeName": "Dat Huy",
+    "Date": "2025-03-15T00:00:00",
+    "ClockInTime": "2025-03-15T08:55:00",
+    "ClockOutTime": "2025-03-15T17:30:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT002",
+    "EmployeeId": "EMP001",
+    "EmployeeName": "Dat Huy",
+    "Date": "2025-03-16T00:00:00",
+    "ClockInTime": "2025-03-16T09:05:00",
+    "ClockOutTime": "2025-03-16T18:00:00",
+    "Status": "Late"
+  },
+  {
+    "AttendanceId": "ATT003",
+    "EmployeeId": "EMP002",
+    "EmployeeName": "Emily Johnson",
+    "Date": "2025-03-15T00:00:00",
+    "ClockInTime": "2025-03-15T08:30:00",
+    "ClockOutTime": "2025-03-15T16:45:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT004",
+    "EmployeeId": "EMP002",
+    "EmployeeName": "Emily Johnson",
+    "Date": "2025-03-16T00:00:00",
+    "ClockInTime": "2025-03-16T08:45:00",
+    "ClockOutTime": "2025-03-16T17:30:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT005",
+    "EmployeeId": "EMP003",
+    "EmployeeName": "Michael Brown",
+    "Date": "2025-03-15T00:00:00",
+    "ClockInTime": "2025-03-15T09:15:00",
+    "ClockOutTime": "2025-03-15T18:30:00",
+    "Status": "Late"
+  },
+  {
+    "AttendanceId": "ATT006",
+    "EmployeeId": "EMP003",
+    "EmployeeName": "Michael Brown",
+    "Date": "2025-03-16T00:00:00",
+    "ClockInTime": "2025-03-16T10:00:00",
+    "ClockOutTime": "2025-03-16T19:00:00",
+    "Status": "HalfDay"
+  },
+  {
+    "AttendanceId": "ATT007",
+    "EmployeeId": "EMP004",
+    "EmployeeName": "Sarah Davis",
+    "Date": "2025-03-15T00:00:00",
+    "ClockInTime": "2025-03-15T08:50:00",
+    "ClockOutTime": "2025-03-15T17:15:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT008",
+    "EmployeeId": "EMP004",
+    "EmployeeName": "Sarah Davis",
+    "Date": "2025-03-16T00:00:00",
+    "ClockInTime": "2025-03-16T00:00:00",
+    "ClockOutTime": "2025-03-16T00:00:00",
+    "Status": "WorkFromHome"
+  },
+  {
+    "AttendanceId": "ATT009",
+    "EmployeeId": "EMP005",
+    "EmployeeName": "James Wilson",
+    "Date": "2025-03-17T00:00:00",
+    "ClockInTime": "2025-03-17T08:45:00",
+    "ClockOutTime": "2025-03-17T17:30:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT010",
+    "EmployeeId": "EMP005",
+    "EmployeeName": "James Wilson",
+    "Date": "2025-03-18T00:00:00",
+    "ClockInTime": "2025-03-18T09:10:00",
+    "ClockOutTime": "2025-03-18T18:15:00",
+    "Status": "Late"
+  },
+  {
+    "AttendanceId": "ATT011",
+    "EmployeeId": "EMP006",
+    "EmployeeName": "Jessica Lee",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T08:55:00",
+    "ClockOutTime": "2025-03-19T17:45:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT012",
+    "EmployeeId": "EMP006",
+    "EmployeeName": "Jessica Lee",
+    "Date": "2025-03-20T00:00:00",
+    "ClockInTime": "2025-03-20T08:48:00",
+    "ClockOutTime": "2025-03-20T16:30:00",
+    "Status": "HalfDay"
+  },
+  {
+    "AttendanceId": "ATT013",
+    "EmployeeId": "EMP007",
+    "EmployeeName": "David Martinez",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T09:05:00",
+    "ClockOutTime": "2025-03-19T18:10:00",
+    "Status": "Late"
+  },
+  {
+    "AttendanceId": "ATT014",
+    "EmployeeId": "EMP007",
+    "EmployeeName": "David Martinez",
+    "Date": "2025-03-20T00:00:00",
+    "ClockInTime": "2025-03-20T00:00:00",
+    "ClockOutTime": "2025-03-20T00:00:00",
+    "Status": "WorkFromHome"
+  },
+  {
+    "AttendanceId": "ATT015",
+    "EmployeeId": "EMP008",
+    "EmployeeName": "Jennifer Garcia",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T08:30:00",
+    "ClockOutTime": "2025-03-19T16:45:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT016",
+    "EmployeeId": "EMP009",
+    "EmployeeName": "Robert Taylor",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T08:50:00",
+    "ClockOutTime": "2025-03-19T17:15:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT017",
+    "EmployeeId": "EMP010",
+    "EmployeeName": "Lisa Anderson",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T09:15:00",
+    "ClockOutTime": "2025-03-19T18:30:00",
+    "Status": "Late"
+  },
+  {
+    "AttendanceId": "ATT018",
+    "EmployeeId": "EMP011",
+    "EmployeeName": "Thomas Clark",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T09:10:00",
+    "ClockOutTime": "2025-03-19T18:05:00",
+    "Status": "Late"
+  },
+  {
+    "AttendanceId": "ATT019",
+    "EmployeeId": "EMP012",
+    "EmployeeName": "Olivia Rodriguez",
+    "Date": "2025-03-19T00:00:00",
+    "ClockInTime": "2025-03-19T08:40:00",
+    "ClockOutTime": "2025-03-19T17:20:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT020",
+    "EmployeeId": "EMP016",
+    "EmployeeName": "Tad Yuh",
+    "Date": "2025-03-20T00:00:00",
+    "ClockInTime": "2025-03-20T08:30:00",
+    "ClockOutTime": "2025-03-20T17:45:00",
+    "Status": "Present"
+  },
+  {
+    "AttendanceId": "ATT021",
+    "EmployeeId": "EMP001",
+    "EmployeeName": "Dat Huy",
+    "Date": "2025-03-28T00:00:00+07:00",
+    "ClockInTime": "2025-03-28T16:49:05.6273515+07:00",
+    "ClockOutTime": "2025-03-28T21:49:13.7667792+07:00",
+    "Status": "Late"
+  }
+]

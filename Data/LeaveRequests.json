@@ -1,0 +1,122 @@
+[
+  {
+    "requestId": "LVE001",
+    "employeeId": "EMP001",
+    "employeeName": "Dat Huy",
+    "requestDate": "2025-03-10T00:00:00",
+    "startDate": "2025-03-22T00:00:00",
+    "endDate": "2025-03-24T00:00:00",
+    "type": "Annual",
+    "status": "Approved",
+    "remarks": "Family vacation",
+    "approverId": null
+  },
+  {
+    "requestId": "LVE002",
+    "employeeId": "EMP002",
+    "employeeName": "Emily Johnson",
+    "requestDate": "2025-03-12T00:00:00",
+    "startDate": "2025-03-25T00:00:00",
+    "endDate": "2025-03-26T00:00:00",
+    "type": "Sick",
+    "status": "Approved",
+    "remarks": "Doctor appointment",
+    "approverId": null
+  },
+  {
+    "requestId": "LVE003",
+    "employeeId": "EMP003",
+    "employeeName": "Michael Brown",
+    "requestDate": "2025-03-14T00:00:00",
+    "startDate": "2025-03-21T00:00:00",
+    "endDate": "2025-03-21T00:00:00",
+    "type": "Personal",
+    "status": "Rejected",
+    "remarks": "Family event Rejection Reason: troll vn",
+    "approverId": "ADMIN001"
+  },
+  {
+    "requestId": "LVE004",
+    "employeeId": "EMP005",
+    "employeeName": "James Wilson",
+    "requestDate": "2025-03-05T00:00:00",
+    "startDate": "2025-03-28T00:00:00",
+    "endDate": "2025-03-29T00:00:00",
+    "type": "Compensatory",
+    "status": "Rejected",
+    "remarks": "Worked on weekend",
+    "approverId": null
+  },
+  {
+    "requestId": "LVE005",
+    "employeeId": "EMP015",
+    "employeeName": "Daniel Walker",
+    "requestDate": "2025-03-01T00:00:00",
+    "startDate": "2025-03-17T00:00:00",
+    "endDate": "2025-03-21T00:00:00",
+    "type": "Annual",
+    "status": "Approved",
+    "remarks": "Vacation",
+    "approverId": null
+  },
+  {
+    "requestId": "LVE006",
+    "employeeId": "EMP001",
+    "employeeName": "Dat Huy",
+    "requestDate": "2025-03-28T14:11:55.0961676+07:00",
+    "startDate": "2025-03-29T00:00:00+07:00",
+    "endDate": "2025-03-29T00:00:00+07:00",
+    "type": "Annual",
+    "status": "Approved",
+    "remarks": "",
+    "approverId": "ADMIN001"
+  },
+  {
+    "requestId": "LVE007",
+    "employeeId": "EMP001",
+    "employeeName": "Dat Huy",
+    "requestDate": "2025-03-28T14:28:01.8722464+07:00",
+    "startDate": "2025-03-29T00:00:00+07:00",
+    "endDate": "2025-04-04T00:00:00",
+    "type": "Annual",
+    "status": "Rejected",
+    "remarks": " Rejection Reason: troll vn. work more bro",
+    "approverId": "ADMIN001"
+  },
+  {
+    "requestId": "LVE008",
+    "employeeId": "EMP001",
+    "employeeName": "Dat Huy",
+    "requestDate": "2025-03-28T14:58:06.191038+07:00",
+    "startDate": "2025-03-29T00:00:00+07:00",
+    "endDate": "2025-03-29T00:00:00+07:00",
+    "type": "Annual",
+    "status": "Rejected",
+    "remarks": " Rejection Reason: di lam di",
+    "approverId": "ADMIN001"
+  },
+  {
+    "requestId": "LVE009",
+    "employeeId": "EMP001",
+    "employeeName": "Dat Huy",
+    "requestDate": "2025-03-28T15:00:53.5514408+07:00",
+    "startDate": "2025-03-29T00:00:00+07:00",
+    "endDate": "2025-03-29T00:00:00+07:00",
+    "type": "Annual",
+    "status": "Rejected",
+    "remarks": "em met qua cho em nghi Rejection Reason: troll vn lam di con",
+    "approverId": "ADMIN001"
+  },
+  {
+    "requestId": "LVE010",
+    "employeeId": "EMP001",
+    "employeeName": "Dat Huy",
+    "requestDate": "2025-03-28T20:20:48.3026641+07:00",
+    "startDate": "2025-03-29T00:00:00+07:00",
+    "endDate": "2025-03-29T00:00:00+07:00",
+    "type": "Annual",
+    "status": "Pending",
+    "remarks": "",
+    "approverId": null
+  }
+]
